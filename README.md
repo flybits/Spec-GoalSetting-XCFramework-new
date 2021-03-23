@@ -4,4 +4,4 @@ This is repository will hold all available releases of GoalSettingSDK XCFramewor
 
 To use this repository on your podfile please use:
 
-`pod 'GoalSettingSDK', '~> 3.0', :source => 'https://github.com/flybits/Spec-GoalSetting-XCFramework.git'`
+`pod 'GoalSettingSDK', '~> 1.0', :source => 'https://github.com/flybits/Spec-GoalSetting-XCFramework.git'`
