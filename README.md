@@ -1,0 +1,1 @@
+# Spec-GoalSetting-XCFramework
